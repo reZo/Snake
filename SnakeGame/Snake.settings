@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SnakeGame" GeneratedClassName="Snake">
+  <Profiles />
+  <Settings>
+    <Setting Name="AREA" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="INDEX_WHITESPACE" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="INDEX_SNAKE" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="INDEX_FRUIT" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="DISPLAY_SNAKE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">#</Value>
+    </Setting>
+    <Setting Name="DISPLAY_FRUIT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">~</Value>
+    </Setting>
+    <Setting Name="GAME_DELAY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
